@@ -1,6 +1,7 @@
 Revision history for {{$dist->name}}
 
 {{$NEXT}}
+  - De facto release (WESM)
 
 0.001000_03 2010-12-14 00:25:18 CST6CDT
   - Fix Deps
